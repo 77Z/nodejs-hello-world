@@ -1,0 +1,29 @@
+{
+  "name": "nodejs-hello-world",
+  "version": "1.0.0",
+  "description": "A basic hello world",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/77Z/nodejs-hello-world.git"
+  },
+  "keywords": [
+    "77z",
+    "node",
+    "js",
+    "nodejs",
+    "hello",
+    "world",
+    "vince",
+    "richter"
+  ],
+  "author": "Vince Richter",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/77Z/nodejs-hello-world/issues"
+  },
+  "homepage": "https://github.com/77Z/nodejs-hello-world#readme"
+}
